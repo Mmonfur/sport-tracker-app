@@ -1,0 +1,322 @@
+[
+    {
+        "merged": "hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:/layout_fragment_create_new_workout_item.xml.flat",
+        "source": "hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:/layout/fragment_create_new_workout_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-xxhdpi_lightning.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-xxhdpi\\lightning.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable_swimming.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable\\swimming.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable_baseline_bar_chart_24.xml.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable\\baseline_bar_chart_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\layout_fragment_create_new_workout_item.xml.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\layout\\fragment_create_new_workout_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-xxhdpi_ic_delete_grey600_48dp.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-xxhdpi\\ic_delete_grey600_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable_ic_weekly_stats.xml.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable\\ic_weekly_stats.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-xhdpi_open_book.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-xhdpi\\open_book.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-xxhdpi_open_book.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-xxhdpi\\open_book.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\layout_fragment_workout_list.xml.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\layout\\fragment_workout_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-anydpi_ic_chart.xml.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-anydpi\\ic_chart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-xhdpi_lightning.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-xhdpi\\lightning.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-xxhdpi_ic_add.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-xxhdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\layout_workout_item.xml.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\layout\\workout_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-mdpi_ic_bought.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-mdpi\\ic_bought.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-xxhdpi_groceries.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-xxhdpi\\groceries.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\layout_fragment_weekly_stats.xml.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\layout\\fragment_weekly_stats.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-xxxhdpi_ic_delete_grey600_48dp.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-xxxhdpi\\ic_delete_grey600_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\layout_item_workout_list.xml.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\layout\\item_workout_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-mdpi_ic_delete_grey600_48dp.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-mdpi\\ic_delete_grey600_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\layout_fragment_chart.xml.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\layout\\fragment_chart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable_notdone.xml.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable\\notdone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-xhdpi_groceries.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-xhdpi\\groceries.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-anydpi_ic_bought.xml.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-anydpi\\ic_bought.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-xxhdpi_ic_not_bought.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-xxhdpi\\ic_not_bought.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable_done.xml.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable\\done.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-xxxhdpi_ic_pencil_grey600_48dp.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-xxxhdpi\\ic_pencil_grey600_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-hdpi_ic_chart.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-hdpi\\ic_chart.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-mdpi_ic_pencil_grey600_48dp.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-mdpi\\ic_pencil_grey600_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-hdpi_groceries.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-hdpi\\groceries.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-xxhdpi_ic_pencil_grey600_48dp.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-xxhdpi\\ic_pencil_grey600_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-hdpi_ic_add.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-hdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable_baseline_edit_24.xml.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable\\baseline_edit_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\menu_menu_chart.xml.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\menu\\menu_chart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-xxxhdpi_open_book.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-xxxhdpi\\open_book.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-mdpi_ic_not_bought.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-mdpi\\ic_not_bought.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-mdpi_lightning.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-mdpi\\lightning.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-anydpi_ic_not_bought.xml.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-anydpi\\ic_not_bought.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-xxxhdpi_lightning.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-xxxhdpi\\lightning.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-anydpi_ic_add.xml.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-anydpi\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-xxhdpi_ic_bought.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-xxhdpi\\ic_bought.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-mdpi_groceries.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-mdpi\\groceries.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-hdpi_lightning.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-hdpi\\lightning.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-mdpi_open_book.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-mdpi\\open_book.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-xhdpi_ic_bought.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-xhdpi\\ic_bought.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-xhdpi_ic_pencil_grey600_48dp.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-xhdpi\\ic_pencil_grey600_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\layout_fragment_edit_workout_item.xml.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\layout\\fragment_edit_workout_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable_rounded_directions_run_24.xml.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable\\rounded_directions_run_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-xhdpi_ic_add.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-xhdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-hdpi_ic_delete_grey600_48dp.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-hdpi\\ic_delete_grey600_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-xxhdpi_ic_chart.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-xxhdpi\\ic_chart.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-hdpi_ic_pencil_grey600_48dp.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-hdpi\\ic_pencil_grey600_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-xhdpi_ic_delete_grey600_48dp.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-xhdpi\\ic_delete_grey600_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-xxxhdpi_groceries.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-xxxhdpi\\groceries.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-xhdpi_ic_not_bought.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-xhdpi\\ic_not_bought.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable_dumbbell.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable\\dumbbell.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable_run.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable\\run.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-mdpi_ic_add.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-mdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-mdpi_ic_chart.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-mdpi\\ic_chart.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-xhdpi_ic_chart.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-xhdpi\\ic_chart.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-hdpi_ic_bought.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-hdpi\\ic_bought.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-hdpi_ic_not_bought.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-hdpi\\ic_not_bought.png"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-debug-50:\\drawable-hdpi_open_book.png.flat",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\drawable-hdpi\\open_book.png"
+    }
+]

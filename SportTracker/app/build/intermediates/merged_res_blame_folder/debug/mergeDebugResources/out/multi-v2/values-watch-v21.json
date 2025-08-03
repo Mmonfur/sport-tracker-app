@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "hu.bme.aut.kliensalkalmazasok.sporttracker.app-mergeDebugResources-48:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Maci\\.gradle\\caches\\8.10.2\\transforms\\609376b4ebcc98e74e6f2dc83c2a7dab\\transformed\\appcompat-1.7.0\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}

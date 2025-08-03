@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-mergeDebugResources-49:\\layout\\fragment_edit_workout_item.xml",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\layout\\fragment_edit_workout_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-mergeDebugResources-49:\\layout\\item_workout_list.xml",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\layout\\item_workout_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-mergeDebugResources-49:\\layout\\workout_item.xml",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\layout\\workout_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-mergeDebugResources-49:\\layout\\fragment_workout_list.xml",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\layout\\fragment_workout_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-mergeDebugResources-49:\\layout\\fragment_chart.xml",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\layout\\fragment_chart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-mergeDebugResources-49:\\layout\\fragment_create_new_workout_item.xml",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\layout\\fragment_create_new_workout_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-mergeDebugResources-49:\\layout\\fragment_weekly_stats.xml",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\layout\\fragment_weekly_stats.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-mergeDebugResources-49:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Maci\\.gradle\\daemon\\8.10.2\\hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "hu.bme.aut.kliensalkalmazasok.sporttracker.app-mergeDebugResources-49:/layout/fragment_create_new_workout_item.xml",
+        "source": "hu.bme.aut.kliensalkalmazasok.sporttracker.app-main-52:/layout/fragment_create_new_workout_item.xml"
+    }
+]
