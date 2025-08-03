@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group
+        android:id="@+id/isCompletedButtons"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/completedButton"
+            android:checked="true"
+            android:icon="@drawable/done"
+            android:title="@string/completed"
+            app:showAsAction="ifRoom" />
+        <item
+            android:id="@+id/notCompletedButton"
+            android:icon="@drawable/notdone"
+            android:title="@string/not_completed"
+            app:showAsAction="ifRoom" />
+
+    </group>
+</menu>

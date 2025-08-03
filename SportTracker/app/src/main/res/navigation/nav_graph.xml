@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/workoutListFragment">
+
+    <fragment
+        android:id="@+id/workoutListFragment"
+        android:name="hu.bme.aut.kliensalkalmazasok.sporttracker.fragment.WorkoutListFragment"
+        android:label="Workout List"
+        tools:layout="@layout/fragment_workout_list">
+
+        <action
+            android:id="@+id/action_workoutListFragment_to_createNewWorkoutItemFragment"
+            app:destination="@id/createNewWorkoutItemFragment" />
+
+        <action
+            android:id="@+id/action_workoutListFragment_to_chartFragment"
+            app:destination="@id/chartFragment" />
+
+        <action
+            android:id="@+id/action_workoutListFragment_to_weeklyStatsFragment"
+            app:destination="@id/weeklyStatsFragment" />
+        <action
+            android:id="@+id/action_list_to_edit"
+            app:destination="@id/editWorkoutItemFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/createNewWorkoutItemFragment"
+        android:name="hu.bme.aut.kliensalkalmazasok.sporttracker.fragment.CreateNewWorkoutItemFragment"
+        android:label="New Workout"
+        tools:layout="@layout/fragment_create_new_workout_item" />
+
+    <fragment
+        android:id="@+id/chartFragment"
+        android:name="hu.bme.aut.kliensalkalmazasok.sporttracker.fragment.ChartFragment"
+        android:label="Workout Summary"
+        tools:layout="@layout/fragment_chart" />
+
+    <fragment
+        android:id="@+id/weeklyStatsFragment"
+        android:name="hu.bme.aut.kliensalkalmazasok.sporttracker.fragment.WeeklyStatsFragment"
+        android:label="Weekly Stats"
+        tools:layout="@layout/fragment_weekly_stats" />
+
+    <fragment
+        android:id="@+id/editWorkoutItemFragment"
+        android:name="hu.bme.aut.kliensalkalmazasok.sporttracker.fragment.EditWorkoutItemFragment"
+        android:label="Edit Workout">
+        <argument
+            android:name="workout_item"
+            app:argType="hu.bme.aut.kliensalkalmazasok.sporttracker.data.WorkoutItem" />
+    </fragment>
+
+
+</navigation>
